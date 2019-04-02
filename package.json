@@ -1,0 +1,13 @@
+{
+  "name": "steem-collector",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {},
+  "author": "steemit.com/@devske",
+  "license": "MIT",
+  "dependencies": {
+    "chalk": "^2.4.2",
+    "steem": "^0.7.4"
+  }
+}
