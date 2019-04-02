@@ -5,7 +5,7 @@ var _ = require('./assets/require.js');
 
 /*
 For install and use guidance / help, 
-visit the Github Page!
+visit the Github Page! Or read the README.md
 https://github.com/mr-piffles/steem-funds-collector/blob/master/README.md
 */
 
